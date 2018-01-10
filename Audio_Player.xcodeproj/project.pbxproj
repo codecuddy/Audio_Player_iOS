@@ -14,6 +14,7 @@
 		AF259AC82005E01200FEFCE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF259AC62005E01200FEFCE3 /* LaunchScreen.storyboard */; };
 		AF259AD32005E01200FEFCE3 /* Audio_PlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF259AD22005E01200FEFCE3 /* Audio_PlayerTests.swift */; };
 		AF259ADE2005E01200FEFCE3 /* Audio_PlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF259ADD2005E01200FEFCE3 /* Audio_PlayerUITests.swift */; };
+		AF259AEC2005E64800FEFCE3 /* beethoven.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259AEB2005E64800FEFCE3 /* beethoven.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AF259AD92005E01200FEFCE3 /* Audio_PlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Audio_PlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF259ADD2005E01200FEFCE3 /* Audio_PlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audio_PlayerUITests.swift; sourceTree = "<group>"; };
 		AF259ADF2005E01200FEFCE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF259AEB2005E64800FEFCE3 /* beethoven.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = beethoven.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				AF259ABD2005E01200FEFCE3 /* AppDelegate.swift */,
 				AF259ABF2005E01200FEFCE3 /* ViewController.swift */,
 				AF259AC12005E01200FEFCE3 /* Main.storyboard */,
+				AF259AEB2005E64800FEFCE3 /* beethoven.mp3 */,
 				AF259AC42005E01200FEFCE3 /* Assets.xcassets */,
 				AF259AC62005E01200FEFCE3 /* LaunchScreen.storyboard */,
 				AF259AC92005E01200FEFCE3 /* Info.plist */,
@@ -235,6 +238,7 @@
 				AF259AC82005E01200FEFCE3 /* LaunchScreen.storyboard in Resources */,
 				AF259AC52005E01200FEFCE3 /* Assets.xcassets in Resources */,
 				AF259AC32005E01200FEFCE3 /* Main.storyboard in Resources */,
+				AF259AEC2005E64800FEFCE3 /* beethoven.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
