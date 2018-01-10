@@ -14,12 +14,20 @@ class ViewController: UIViewController {
     var player = AVAudioPlayer()
 
     @IBAction func play(_ sender: Any) {
+        
+        player.play()
+
     }
     
     @IBAction func pause(_ sender: Any) {
+        
+        player.pause()
     }
     
     @IBAction func sliderMoved(_ sender: Any) {
+        
+        player.volume = slider.value
+        
     }
     
     @IBOutlet weak var slider: UISlider!
@@ -35,7 +43,6 @@ class ViewController: UIViewController {
             
             try player = AVAudioPlayer(contentsOf: URL(fileURLWithPath: audioPath!))
             
-            player.play()
             
         } catch {
             
