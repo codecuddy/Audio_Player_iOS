@@ -15,6 +15,7 @@
 		AF259AD32005E01200FEFCE3 /* Audio_PlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF259AD22005E01200FEFCE3 /* Audio_PlayerTests.swift */; };
 		AF259ADE2005E01200FEFCE3 /* Audio_PlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF259ADD2005E01200FEFCE3 /* Audio_PlayerUITests.swift */; };
 		AF259AEE2007276400FEFCE3 /* beethoven.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259AED2007276300FEFCE3 /* beethoven.mp3 */; };
+		AF259AF220072C6F00FEFCE3 /* beethoven.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF259AF120072C6F00FEFCE3 /* beethoven.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AF259ADD2005E01200FEFCE3 /* Audio_PlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audio_PlayerUITests.swift; sourceTree = "<group>"; };
 		AF259ADF2005E01200FEFCE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF259AED2007276300FEFCE3 /* beethoven.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = beethoven.mp3; sourceTree = SOURCE_ROOT; };
+		AF259AF120072C6F00FEFCE3 /* beethoven.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beethoven.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				AF259ABF2005E01200FEFCE3 /* ViewController.swift */,
 				AF259AC12005E01200FEFCE3 /* Main.storyboard */,
 				AF259AED2007276300FEFCE3 /* beethoven.mp3 */,
+				AF259AF120072C6F00FEFCE3 /* beethoven.jpg */,
 				AF259AC42005E01200FEFCE3 /* Assets.xcassets */,
 				AF259AC62005E01200FEFCE3 /* LaunchScreen.storyboard */,
 				AF259AC92005E01200FEFCE3 /* Info.plist */,
@@ -237,6 +240,7 @@
 			files = (
 				AF259AC82005E01200FEFCE3 /* LaunchScreen.storyboard in Resources */,
 				AF259AC52005E01200FEFCE3 /* Assets.xcassets in Resources */,
+				AF259AF220072C6F00FEFCE3 /* beethoven.jpg in Resources */,
 				AF259AEE2007276400FEFCE3 /* beethoven.mp3 in Resources */,
 				AF259AC32005E01200FEFCE3 /* Main.storyboard in Resources */,
 			);
